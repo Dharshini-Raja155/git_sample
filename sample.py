@@ -1,6 +1,1 @@
-
-
-
-
-
-print("Hello world")
+print("Hello hari from old file")
